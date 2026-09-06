@@ -1,0 +1,6 @@
+PyQt6
+google-genai
+Pillow
+mss
+keyring
+openai
